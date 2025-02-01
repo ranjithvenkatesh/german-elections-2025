@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net8.0
+/.vs/german-elections-2025
+/obj
+/german-elections-2025.csproj.user
